@@ -1,0 +1,347 @@
+În matematică, un monom este, practic, un polinom care are un singur termen. Pot fi întâlnite două definiții ale unui monom:
+
+Un monom este un produs de puteri ale variabilelor cu exponenți întregi nenegativi, sau, cu alte cuvinte, un produs de variabile, eventual cu repetări. De exemplu, 
+x
+2
+y
+z
+3
+=
+x
+x
+y
+z
+z
+z
+{\displaystyle x^{2}yz^{3}=xxyzzz} este un monom. Constanta 
+1
+{\displaystyle 1} este un monom, fiind egală cu un produs vid cu 
+x
+0
+,
+{\displaystyle x^{0},} unde 
+x
+{\displaystyle x} este o variabilă oarecare. Dacă există o singură variabilă, 
+x
+,
+{\displaystyle x,} atunci monomul este 
+1
+{\displaystyle 1} sau o putere 
+x
+n
+{\displaystyle x^{n}} a lui 
+x
+,
+{\displaystyle x,} cu 
+n
+{\displaystyle n} un întreg pozitiv. Dacă sunt mai multe variabile, de exemplu 
+x
+,
+y
+,
+z
+,
+{\displaystyle x,y,z,} atunci fiecare are un exponent, astfel că monomul este de forma 
+x
+a
+y
+b
+z
+c
+{\displaystyle x^{a}y^{b}z^{c}} cu 
+a
+,
+b
+,
+c
+{\displaystyle a,b,c} întregi nenegativi (de notat că orice exponent 
+0
+{\displaystyle 0} transformă factorul respectiv în 
+1
+{\displaystyle 1}).
+Un monom este un monom în primul sens înmulțit cu o constantă diferită de zero, numită coeficientul monomului.[1] Un monom în primul sens este un caz special al unui monom din al doilea sens, unde coeficientul este 
+1
+{\displaystyle 1}. De exemplu, în această interpretare 
+−
+7
+x
+5
+{\displaystyle -7x^{5}} și 
+(
+3
+−
+4
+i
+)
+x
+4
+y
+z
+13
+{\displaystyle (3-4i)x^{4}yz^{13}} sunt monoame (în al doilea exemplu, variabilele sunt 
+x
+,
+y
+,
+z
+,
+{\displaystyle x,y,z,} iar coeficientul este un număr complex).
+În contextul polinoamelor Laurent și seriilor Laurent⁠(d), exponenții dintr-un monom pot fi negativi, iar în contextul seriilor Puiseux⁠(d) exponenții pot fi numere raționale.
+
+Compararea celor două definiții
+Cu oricare dintre definiții, mulțimea monoamelor este o submulțime a polinoamelor care este o mulțime închisă față de înmulțire.
+
+Ambele definiții ale acestei noțiuni pot fi găsite și, în multe cazuri, deosebirea dintre ele este ignorată, a se vedea, de exemplu, exemple pentru prima[2] și a doua.[3] În discuțiile neformale, deosebirea este rareori importantă, iar tendința este spre al doilea sens, mai larg. Totuși, atunci când se studiază structura polinoamelor adesea este nevoie de o noțiune având primul sens. Acesta este, de exemplu, cazul când se ia în considerare o bază monomială⁠(d) a inelului polinoamelor⁠(d), sau o ordine monomială⁠(d) a acestei baze. Un argument în favoarea primului sens este și că nu este disponibilă o altă noțiune evidentă pentru a desemna aceste valori, în timp ce noțiunea de polinom coincide fără echivoc cu al doilea sens al monomului.
+
+În continuare, articolul se bazează pe primul sens al monomului.
+
+Bază monomială
+Faptul cel mai evident legat de prima definiție a monoamelor este că orice polinom este o combinație liniară⁠(d) a acestora, deci formează o bază a spațiului vectorial al polinoamelor, numită baza monomială — utilizată constant implicit în matematică.
+
+Număr
+Numărul monoamelor de grad 
+d
+{\displaystyle d} în 
+n
+{\displaystyle n} variabile este numărul combinațiilor a 
+d
+{\displaystyle d} elemente alese dintre variabilele 
+n
+{\displaystyle n} (o variabilă poate fi aleasă de mai multe ori, dar ordinea nu contează), care este dată de coeficienții binomiali 
+(
+(
+n
+d
+)
+)
+{\textstyle \left(\!\!{\binom {n}{d}}\!\!\right)}:
+
+(
+(
+n
+d
+)
+)
+=
+(
+n
++
+d
+−
+1
+d
+)
+=
+(
+d
++
+(
+n
+−
+1
+)
+n
+−
+1
+)
+=
+(
+d
++
+1
+)
+×
+(
+d
++
+2
+)
+×
+⋯
+×
+(
+d
++
+n
+−
+1
+)
+1
+×
+2
+×
+⋯
+×
+(
+n
+−
+1
+)
+=
+1
+(
+n
+−
+1
+)
+!
+(
+d
++
+1
+)
+n
+−
+1
+¯
+.
+{\displaystyle \left(\!\!{\binom {n}{d}}\!\!\right)={\binom {n+d-1}{d}}={\binom {d+(n-1)}{n-1}}={\frac {(d+1)\times (d+2)\times \cdots \times (d+n-1)}{1\times 2\times \cdots \times (n-1)}}={\frac {1}{(n-1)!}}(d+1)^{\overline {n-1}}.}
+Această formă este deosebit de utilă când se fixează numărul de variabile și se lasă gradul să varieze. Din aceste expresii se vede că pentru n fix, numărul de monoame de grad d este o expresie polinomială în 
+d
+{\displaystyle d} de gradul 
+n
+−
+1
+{\displaystyle n-1} cu coeficientul 
+1
+(
+n
+−
+1
+)
+!
+{\textstyle {\frac {1}{(n-1)!}}}.
+
+De exemplu, numărul monoamelor în trei variabile (
+n
+=
+3
+{\displaystyle n=3}) de gradul d este 
+1
+2
+(
+d
++
+1
+)
+2
+¯
+=
+1
+2
+(
+d
++
+1
+)
+(
+d
++
+2
+)
+{\textstyle {\frac {1}{2}}(d+1)^{\overline {2}}={\frac {1}{2}}(d+1)(d+2)}; aceste numere formează șirul 1, 3, 6, 10, 15, ... al numerelor triunghiulare.
+
+Seriile Hilbert⁠(d) sunt un mod compact de a exprima numărul de monoame de un anumit grad: numărul de monoame de grad 
+d
+{\displaystyle d} în 
+n
+{\displaystyle n} variabile este coeficientul de gradul 
+d
+{\displaystyle d} din dezvoltarea seriilor formale
+
+1
+(
+1
+−
+t
+)
+n
+.
+{\displaystyle {\frac {1}{(1-t)^{n}}}.}
+Numărul monoamelor de grad cel mult d în n variabile este 
+(
+n
++
+d
+n
+)
+=
+(
+n
++
+d
+d
+)
+{\textstyle {\binom {n+d}{n}}={\binom {n+d}{d}}}. Acest lucru rezultă din corespondența unu-la-unu dintre monoamele de gradul 
+d
+{\displaystyle d} în 
+n
++
+1
+{\displaystyle n+1} variabile și monoamele de gradul cel mult 
+d
+{\displaystyle d} în 
+n
+{\displaystyle n} variabile, care constă în înlocuirea cu 1 a variabilei suplimentare.
+
+Notație
+Notația monoamelor este necesară frecvent în domenii precum ecuațiile cu derivate parțiale. Dacă variabilele folosite formează o familie indexată ca 
+x
+1
+{\displaystyle x_{1}}, 
+x
+2
+{\displaystyle x_{2}}, 
+x
+3
+{\displaystyle x_{3}}, ..., atunci se poate folosi notația cu indici multipli⁠(d). Pentru o exprimare compactă, pentru 
+α
+=
+(
+a
+,
+b
+,
+c
+)
+{\displaystyle \alpha =(a,b,c)} se poate defini
+
+x
+α
+=
+x
+1
+a
+x
+2
+b
+x
+3
+c
+.
+{\displaystyle x^{\alpha }=x_{1}^{a}\,x_{2}^{b}\,x_{3}^{c}.}
+Grad
+Gradul unui monom este definit drept suma tuturor exponenților variabilelor, inclusiv exponenții impliciți ai lui 1 pentru variabilele care apar fără exponent; de exemplu, în exemplul secțiunii anterioare, gradul este 
+a
++
+b
++
+c
+{\displaystyle a+b+c}. Gradul lui 
+x
+y
+z
+2
+{\displaystyle xyz^{2}} este 1+1+2=4. Gradul unei constante diferite de zero este 0. De exemplu, gradul lui −7 este 0.
+
+Uneori gradul unui monom este numit ordin, mai ales în contextul seriilor. Se mai numește grad total atunci când este necesar de a-l deosebi de gradul uneia dintre variabile.
+
+Gradul unui monom este fundamental pentru teoria polinoamelor în una sau mai multe variabile. Explicit, este utilizat pentru a defini gradul unui polinom și noțiunea de polinom omogen, precum și pentru ordonările monomiale utilizate în formularea și calculul bazelor Gröbner⁠(d). Implicit, este folosit în gruparea termenilor unei serii Taylor în mai multe variabile.
+
+Geometrie
+În geometria algebrică varietățile definite prin ecuații monomiale 
+x
+α
+=
+0
+{\displaystyle x^{\alpha }=0} pentru un anumit set de α au proprietăți speciale de omogenitate. Acest lucru poate fi formulat în limbajul grupurilor algebrice în termenii existenței unei acțiuni de grup⁠(d) al unui tor algebric⁠(d) (echivalent cu un grup multiplicativ de matrici diagonale). Acest domeniu este studiat sub numele de varietăți torice⁠(d).

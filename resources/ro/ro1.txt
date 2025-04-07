@@ -1,0 +1,21 @@
+Wikipedia (pronunțat în română [wikiˈpedi.a] sau [vikipeˈdi.a],[4] iar în engleză /ˌwɪkiˈpiːdi.ə/ ▶) este o enciclopedie generală, disponibilă pe Internet în mai multe limbi, având conținut ce poate fi utilizat liber și dezvoltat de oricine. Este dezvoltată prin colaborarea voluntară a unui mare număr de persoane și administrată de fundația non-profit Wikimedia. Face parte din fenomenul numit Web 2.0.
+
+Prefixul din denumirea Wikipedia se referă la metoda „wiki” de a edita pagini de web în colaborare, o metodă simplă și rapidă care permite participarea unui mare număr de persoane la redactarea aceluiași material. În limba hawaiiană wiki wiki, scris și wiki-wiki, înseamnă „iute-iute”.
+
+Proiectul a început în limba engleză la 15 ianuarie 2001 la inițiativa lui Jimmy Wales și Larry Sanger.[5] Ediția în limba engleză, cea mai dezvoltată dintre versiuni, a depășit în anul 2007 pragul de 2 milioane de articole, iar numărul de articole în toate limbile a depășit 9 milioane. Ediția în limba română are în prezent aproximativ 512000 de articole. Ulterior noi proiecte au început să construiască Wikipedia în alte limbi, în prezent existând peste 200 de proiecte, dintre care circa 100 sunt active.
+
+Wikipedia folosește software liber, fiind inspirată de ideile lui Richard Stallman, fondator al Free Software Foundation, probabil primul care a propus existența unei enciclopedii complet libere.[6]
+
+Același nume, Wikipedia, desemnează și site-ul Wikipedia.org, unde se pot accesa articolele scrise în cadrul proiectului și unde voluntarii participă la dezvoltarea lui.
+
+Istorie
+Wikipedia a fost descrisă ca o Enciclopedie Galactică (Encyclopedia Galactica) încă de la începutul istoriei sale (din 2005).[7][8] Aceste comparații au fost făcute atât cu versiunea lui Isaac Asimov,[9] cât și cu versiunea lui Douglas Adams,[10][11] datorită gamei sale cuprinzătoare.
+
+Autori
+
+Wikipedia este caracterizată de imparțialitate
+La scrierea articolelor din Wikipedia poate contribui oricine.[12] Pentru a modifica articolele sau a adăuga altele noi nu este necesară nicio identificare a persoanelor și nicio verificare a competenței lor. În general, acest caracter liber al proiectului este privit cu suspiciune, întrucât este greu de imaginat că în urma unui astfel de proces neîngrădit se poate crea o lucrare enciclopedică de calitate. Vizitatorii sitului Wikipedia întreabă adesea: „Bine, dar atunci orice neștiutor sau răuvoitor poate să scrie în articole absolut orice! Mai mult, oricine poate să șteargă contribuțiile valoroase făcute de alții! Nu e periculos?” Deși într-adevăr articolele sunt uneori vandalizate de răuvoitori, modificările operate sunt permanent supravegheate de către comunitatea de utilizatori, care în timp s-au organizat și, pe lângă activitatea de dezvoltare continuă a proiectului, reușesc și să facă față atacurilor. Imediat ce apare o modificare nepotrivită, ea este anulată iar persoana respectivă avertizată, totul petrecându-se de obicei într-un interval de câteva minute. În plus administratorii sitului au și posibilitatea de a bloca accesul la editare al răuvoitorilor.
+
+Printre contribuitori se află oameni din toate părțile lumii și toate categoriile de vârstă, singurele condiții fiind accesul la internet și dorința de a participa la scrierea unei enciclopedii. Desigur, sunt preferați editorii care cunosc suficient de bine un domeniu și care pot redacta articolele într-un stil propriu unei enciclopedii.[13]
+
+Ceea ce a consacrat Wikipedia drept enciclopedie credibilă a fost victoria facțiunii anti teorii marginale, ceea ce a dus la părăsirea în masă a Wikipediei de către editorii din facțiunea pro teorii marginale.[14] Pierzând masiv editori, Wikipedia a câștigat considerabil în credibilitate.[14]

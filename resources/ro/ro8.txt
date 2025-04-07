@@ -1,0 +1,18 @@
+Ubuntu este un sistem de operare bazat pe Linux[7] pentru computerele personale, servere și netbook-uri. Rudă apropiată a sistemului de operare Debian GNU/Linux, Ubuntu este ușor de instalat și folosit, des actualizat și neîngrădit de restricții legale. Ubuntu este sponsorizat de Canonical Ltd., o companie privată fondată de antreprenorul sud-african Mark Shuttleworth.
+
+Numele sistemului de operare provine din limba zulusă, unde „ubuntu” este o ideologie ce poate fi definită pe scurt drept „credința într-o legatură universală ce unește întreaga omenire”. Sloganul adoptat, „Linux pentru ființe umane” încorporează unul din scopurile declarate ale proiectului, acela de a face din Linux un sistem de operare popular și ușor de folosit. Cea mai recentă versiune Ubuntu este 22.10, Kinetic Kudu.
+
+Scurt istoric
+
+Ecranul Acasă pe Ubuntu Unity
+Inițial cunoscută sub numele de cod no-name-yet.com, prima versiune Ubuntu a apărut ca o copie temporară a proiectului Debian, pe data de 20 octombrie 2004. Tot atunci s-a hotărât ca Ubuntu să folosească periodic cod sursă din Debian, pentru a înlesni lansarea unei noi versiuni la fiecare șase luni și pentru ca variația cauzată de „bifurcare” să nu ducă la un sistem de operare fundamental diferit.
+
+Ubuntu urmărește îndeaproape lansările de noi versiuni ale mediului de lucru GNOME. Spre deosebire de alte sisteme de operare derivate din Debian, precum Xandros, Linspire sau Libranet, Canonical dorește ca Ubuntu să fie compus predominant din software liber.
+
+Ubuntu împrumută pentru managementul software-ului tehnologia Advanced Packaging Tool din Debian. Software-ul se prezintă în „pachete” provenind în mare parte din repozitoriul Debian unstable, dar aceasta nu este o condiție pentru ca un pachet să funcționeze corect în ambele sisteme de operare. Câțiva din dezvoltatorii Ubuntu întrețin pachete din repozitoriile Debian, iar contribuțiile lor sunt anunțate imediat și nu la lansarea noii versiuni. Ian Murdock, fondatorul Debian, a criticat Ubuntu în aprilie 2005 pentru incompatibilitățile apărute, Ubuntu ajungând, în opinia sa, să difere foarte mult de Debian.
+
+Erorile găsite în Ubuntu sunt gestionate prin interfața web Launchpad, aceasta încorporând sistemul de control al versiunilor Bazaar, motorul de traducere colectivă Rosetta și bug-trackerul Malone.
+
+Ubuntu este actualmente susținut financiar de către Mark Shuttleworth prin compania acestuia, Canonical. La data de 8 iulie 2005 Canonical a anunțat apariția Fundației Ubuntu, căreia i-a donat un capital inițial de 10 milioane de dolari americani. Scopul fundației este de a asigura suportul și dezvoltarea versiunilor viitoare ale Ubuntu, dar până acum rolul acesteia a fost unul pasiv. Shuttleworth a descris fundația drept un fond de urgență pentru eventualitatea în care Canonical încetează susținerea financiară.
+
+La 1 mai 2007 producătorul american de calculatoare Dell a anunțat că urmează să livreze computere de birou și laptopuri cu Ubuntu preinstalat, iar la 24 mai comercializarea acestor sisteme a început. Clienții pot cumpăra suport tehnic de la Canonical, prin Dell.

@@ -1,3 +1,7 @@
-public static void main(String[] args) {
+import javax.swing.*;
 
+public class Main {
+    public static void main(String[] args) {
+        SwingUtilities.invokeLater(PreRunGui::new);
+    }
 }

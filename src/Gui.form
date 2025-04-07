@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Gui">
+  <grid id="27dc6" binding="mainPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <grid id="10ed8" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints border-constraint="North"/>
+        <properties/>
+        <border type="empty">
+          <size top="10" left="10" bottom="10" right="10"/>
+        </border>
+        <children>
+          <component id="18bc6" class="javax.swing.JLabel">
+            <constraints border-constraint="West"/>
+            <properties>
+              <text value="Dostępne języki: "/>
+            </properties>
+          </component>
+          <component id="d14b4" class="javax.swing.JLabel" binding="availableLangsLabel">
+            <constraints border-constraint="Center"/>
+            <properties>
+              <text value="[en]"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="7c9b6" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints border-constraint="Center"/>
+        <properties/>
+        <border type="empty">
+          <size top="0" left="10" bottom="0" right="10"/>
+        </border>
+        <children>
+          <component id="eacc9" class="javax.swing.JTextArea" binding="textArea1" default-binding="true">
+            <constraints border-constraint="Center"/>
+            <properties/>
+          </component>
+        </children>
+      </grid>
+      <grid id="bd5fc" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints border-constraint="South"/>
+        <properties/>
+        <border type="empty">
+          <size top="10" left="10" bottom="10" right="10"/>
+        </border>
+        <children>
+          <grid id="c0b34" layout-manager="BorderLayout" hgap="0" vgap="0">
+            <constraints border-constraint="West"/>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="20828" class="javax.swing.JLabel" binding="recognisedTextLabel">
+                <constraints border-constraint="West"/>
+                <properties>
+                  <enabled value="true"/>
+                  <text value="Rozpoznany język: "/>
+                </properties>
+              </component>
+              <component id="fc9f7" class="javax.swing.JLabel" binding="recognisedAnswerLabel">
+                <constraints border-constraint="Center"/>
+                <properties>
+                  <enabled value="true"/>
+                  <text value="[__]"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="344f6" layout-manager="BorderLayout" hgap="0" vgap="0">
+            <constraints border-constraint="East"/>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="11025" class="javax.swing.JButton" binding="recogniseButton">
+                <constraints border-constraint="Center"/>
+                <properties>
+                  <text value="Rozpoznaj"/>
+                </properties>
+              </component>
+              <component id="f0b6f" class="javax.swing.JButton" binding="clearTextAreaButton">
+                <constraints border-constraint="West"/>
+                <properties>
+                  <text value="Wyczyść dane"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>
