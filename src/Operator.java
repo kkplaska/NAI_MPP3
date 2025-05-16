@@ -89,7 +89,7 @@ public class Operator {
 
     public static Map<Character, Double> getCharMapOfFile(Path pathToFile){
         try {
-            return getCharMap(Files.readString(pathToFile, StandardCharsets.UTF_8));
+            return getCharMap(new String(Files.readAllBytes(pathToFile), StandardCharsets.UTF_8));
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
